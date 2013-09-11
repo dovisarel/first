@@ -1,3 +1,3 @@
 <?php
   echo time();
-  $c = 5;
+  $c = 3;
